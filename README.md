@@ -21,7 +21,7 @@ choco pack
 Intall the .nupkg using choco:
 
 ```
-choco install minipro -s ".\"
+choco install minipro -s "."
 ```
 
 You can now run minipro from the commandline:
